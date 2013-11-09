@@ -1,4 +1,4 @@
-Foundations
+Foundation
 ===========
 
 Project skeleton including unit tests, directories, basic composer configuration etc. etc.
